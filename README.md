@@ -48,7 +48,21 @@ From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 ```
 ## Tabulation
-![WhatsApp Image 2025-11-15 at 20 18 55_6783911a](https://github.com/user-attachments/assets/e46b43f0-229c-442f-9761-8aa1ef52ef05)
+```
+S.No	   LCM	   WCM	   NA
+1	      2.5	   0.3	   0.059
+```
+## calculation
+
+<img width="280" height="208" alt="image" src="https://github.com/user-attachments/assets/67210885-b96f-4898-9d83-9625d90c1ac2" />
+
+<img width="773" height="588" alt="image" src="https://github.com/user-attachments/assets/8d7a1f09-4b7b-446f-b464-d1b6b3937d71" />
+
+<img width="831" height="353" alt="image" src="https://github.com/user-attachments/assets/ffaa5b57-d25b-44b4-b39b-b4b3416f5662" />
+
+<img width="796" height="353" alt="image" src="https://github.com/user-attachments/assets/a8c0da3f-445d-4169-95dc-bbdc3f5ed3e9" />
+
+
 
 ## Result
 Thus the mode characteristics of fibre optic cable is verified and output is studied succesfully
