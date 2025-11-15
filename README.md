@@ -1,5 +1,4 @@
-
-# Exp 1 Mode Characteristics of Fiber Optic Cable
+## Exp 1 Mode Characteristics of Fiber Optic Cable
 
 ## 🎯 AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
