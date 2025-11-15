@@ -3,7 +3,6 @@
 ## 🎯 AIM
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
 
----
 
 ## 🧰 EQUIPMENTS REQUIRED
 1. LASER Source (633 nm – 1mW)  
@@ -11,9 +10,6 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 3. Single Mode Fiber  
 4. Fiber Holding Stand  
 5. Opaque Screen  
-
----
-
 
 ## 📚 THEORY
 
@@ -31,8 +27,6 @@ When V < 2.045, then only a single mode may propagate in the fiber waveguide. Th
 When V > 2.045, other modes may propagate, when V is slightly greater than 2.045 i.e. V = 4.91 then 4 Linearly Polarized modes will propagate through fiber.
 
 
----
-
 ## 🧪 PROCEDURE
 
 1. Place the optical breadboard on a flat surface.
@@ -46,18 +40,13 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 9. Observe the multimode speckle pattern on the screen. Adjust screws to refine the pattern.
 10. Replace with single mode fiber patch cord. Observe blur patterns of LP modes (e.g., single lobe, two lobes, etc.) by fine-tuning the coupler screws.
 
----
-
-
 ## 📊 OBSERVATION AND CALCULATION
-
-- 
+```
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
-
----
+```
 ## Tabulation
 ![WhatsApp Image 2025-11-15 at 20 18 55_6783911a](https://github.com/user-attachments/assets/e46b43f0-229c-442f-9761-8aa1ef52ef05)
 
