@@ -59,4 +59,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+![WhatsApp Image 2025-11-15 at 20 18 55_6783911a](https://github.com/user-attachments/assets/e46b43f0-229c-442f-9761-8aa1ef52ef05)
+
 ## Result
+Thus the mode characteristics of fibre optic cable is verified and output is studied succesfully
